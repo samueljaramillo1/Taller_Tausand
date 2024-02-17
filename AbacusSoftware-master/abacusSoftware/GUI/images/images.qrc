@@ -1,0 +1,11 @@
+<RCC>
+   <qresource prefix="/">
+     <file>Abacus_small.png</file>
+     <file>abacus_small.ico</file>
+     <file>splash.png</file>
+     <file>current_icon.png</file>
+     <file>plot_icon.png</file>
+     <file>current_icon_dark.png</file>
+     <file>plot_icon_dark.png</file>
+   </qresource>
+</RCC>

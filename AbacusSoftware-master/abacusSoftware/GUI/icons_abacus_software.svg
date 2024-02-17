@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="icons_abacus_software.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1126"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="542.15566"
+     inkscape:cy="596.39941"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="660"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.53189087px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.33171988;"
+       x="45.663971"
+       y="50.645344"
+       id="text860"
+       transform="scale(0.80086993,1.2486422)"
+       inkscape:export-xdpi="301.82397"
+       inkscape:export-ydpi="301.82397"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/current_icon_dark.png"><tspan
+         sodipodi:role="line"
+         id="tspan858"
+         x="45.663971"
+         y="50.645344"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:4.33171988;">A:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.53189087px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.33171988;"
+       x="127.8046"
+       y="51.482918"
+       id="text860-1"
+       transform="scale(0.80086993,1.2486422)"
+       inkscape:export-xdpi="301.82397"
+       inkscape:export-ydpi="301.82397"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/current_icon_dark.png"><tspan
+         sodipodi:role="line"
+         id="tspan858-5"
+         x="127.8046"
+         y="51.482918"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:4.33171988;">13</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.79854202px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#20fc03;fill-opacity:1;stroke:none;stroke-width:4.34990072;"
+       x="39.925552"
+       y="110.74115"
+       id="text860-6"
+       transform="scale(0.80423127,1.2434234)"
+       inkscape:export-xdpi="301.82397"
+       inkscape:export-ydpi="301.82397"><tspan
+         sodipodi:role="line"
+         id="tspan858-1"
+         x="39.925552"
+         y="110.74115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#20fc03;fill-opacity:1;stroke-width:4.34990072;">B:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.79854202px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#20fc03;fill-opacity:1;stroke:none;stroke-width:4.34990072;"
+       x="125.45059"
+       y="109.83776"
+       id="text860-1-9"
+       transform="scale(0.80423127,1.2434234)"
+       inkscape:export-xdpi="301.82397"
+       inkscape:export-ydpi="301.82397"><tspan
+         sodipodi:role="line"
+         id="tspan858-5-8"
+         x="125.45059"
+         y="109.83776"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#20fc03;fill-opacity:1;stroke-width:4.34990072;">98</tspan></text>
+    <g
+       id="g3006"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1;fill-opacity:1"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301">
+      <rect
+         y="268.96677"
+         x="50.852795"
+         height="1.8973209"
+         width="90.991615"
+         id="rect2920"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:9.35839081;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="-3.1171212e-06"
+         inkscape:transform-center-x="-1.4346322"
+         d="m 148.57746,275.00166 0,-5.08622 0,-5.08623 4.4048,2.54311 4.4048,2.54312 -4.4048,2.54311 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="3.1415927"
+         sodipodi:arg1="2.0943951"
+         sodipodi:r2="2.9365315"
+         sodipodi:r1="5.8730631"
+         sodipodi:cy="269.91544"
+         sodipodi:cx="151.51399"
+         sodipodi:sides="3"
+         id="path2924"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:11.42677116;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         sodipodi:type="star" />
+      <rect
+         transform="rotate(-90)"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:9.35839081;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         id="rect2926"
+         width="90.991615"
+         height="1.8973209"
+         x="-270.86407"
+         y="50.852795" />
+      <path
+         transform="matrix(0,-1.0234457,1.0234457,0,-215.47172,30.426051)"
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:11.16499996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         id="path2928"
+         sodipodi:sides="3"
+         sodipodi:cx="-136.57474"
+         sodipodi:cy="261.15033"
+         sodipodi:r1="5.7385197"
+         sodipodi:r2="2.8692598"
+         sodipodi:arg1="2.0943951"
+         sodipodi:arg2="3.1415927"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -139.444,266.12003 0,-4.9697 0,-4.9697 4.30389,2.48485 4.30389,2.48485 -4.30389,2.48485 z"
+         inkscape:transform-center-y="-1.4346351" />
+    </g>
+    <circle
+       r="6.2485409"
+       cy="164.30099"
+       cx="157.5739"
+       id="circle2938"
+       style="opacity:1;fill:#20fc03;fill-opacity:1;stroke:#20fc03;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+    <circle
+       style="opacity:1;fill:#20fc03;fill-opacity:1;stroke:#20fc03;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       id="circle2994"
+       cx="94.635674"
+       cy="197.89217"
+       r="6.2485409"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+    <circle
+       r="6.2485409"
+       cy="242.11539"
+       cx="74.602936"
+       id="circle2996"
+       style="opacity:1;fill:#20fc03;fill-opacity:1;stroke:#20fc03;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+    <circle
+       r="6.2485409"
+       cy="218.30289"
+       cx="132.81126"
+       id="circle2998"
+       style="opacity:1;fill:#20fc03;fill-opacity:1;stroke:#20fc03;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+    <path
+       style="fill:none;stroke:#20fc03;stroke-width:9.76500034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.461308,242.9494 20.788691,-46.11309 v 0 l 37.797621,21.92262 24.56845,-55.94048"
+       id="path3000"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+    <rect
+       y="8.6879025"
+       x="-352.76825"
+       height="131.32402"
+       width="131.32401"
+       id="rect3103"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.96765065;stroke-miterlimit:5.69999981;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1" />
+    <g
+       transform="matrix(1,0,0,0.94488185,-390.07143,3.0951273)"
+       id="g3113">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.35864258px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#1f77b4;fill-opacity:1;stroke:none;stroke-width:4.45627117"
+         x="46.976959"
+         y="51.855957"
+         id="text3107"
+         transform="scale(0.77848589,1.2845448)"
+         inkscape:export-xdpi="301.82397"
+         inkscape:export-ydpi="301.82397"><tspan
+           sodipodi:role="line"
+           id="tspan3105"
+           x="46.976959"
+           y="51.855957"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#1f77b4;fill-opacity:1;stroke-width:4.45627117">A:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.35864258px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#1f77b4;fill-opacity:1;stroke:none;stroke-width:4.45627117"
+         x="131.4794"
+         y="52.717613"
+         id="text3111"
+         transform="scale(0.77848589,1.2845448)"
+         inkscape:export-xdpi="301.82397"
+         inkscape:export-ydpi="301.82397"><tspan
+           sodipodi:role="line"
+           id="tspan3109"
+           x="131.4794"
+           y="52.717613"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#1f77b4;fill-opacity:1;stroke-width:4.45627117">13</tspan></text>
+    </g>
+    <g
+       transform="matrix(1,0,0,0.94488193,-390.07143,10.386676)"
+       id="g3123">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.63295746px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff7f0e;fill-opacity:1;stroke:none;stroke-width:4.47497463"
+         x="41.073544"
+         y="107.64597"
+         id="text3117"
+         transform="scale(0.78175331,1.2791759)"
+         inkscape:export-xdpi="301.82397"
+         inkscape:export-ydpi="301.82397"><tspan
+           sodipodi:role="line"
+           id="tspan3115"
+           x="41.073544"
+           y="107.64597"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff7f0e;fill-opacity:1;stroke-width:4.47497463">B:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.63295746px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff7f0e;fill-opacity:1;stroke:none;stroke-width:4.47497463"
+         x="129.05771"
+         y="106.71661"
+         id="text3121"
+         transform="scale(0.78175331,1.2791759)"
+         inkscape:export-xdpi="301.82397"
+         inkscape:export-ydpi="301.82397"><tspan
+           sodipodi:role="line"
+           id="tspan3119"
+           x="129.05771"
+           y="106.71661"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff7f0e;fill-opacity:1;stroke-width:4.47497463">98</tspan></text>
+    </g>
+    <rect
+       y="155.88683"
+       x="-352.76825"
+       height="131.32402"
+       width="131.32401"
+       id="rect3125"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.96765065;stroke-miterlimit:5.69999981;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1" />
+    <g
+       style="fill:#ffff00;stroke:#000000;stroke-opacity:1"
+       id="g3135"
+       transform="translate(-390.07143,2.7970233)">
+      <rect
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:9.35839081;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         id="rect3127"
+         width="90.991615"
+         height="1.8973209"
+         x="50.852795"
+         y="268.96677" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:11.42677116;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         id="path3129"
+         sodipodi:sides="3"
+         sodipodi:cx="151.51399"
+         sodipodi:cy="269.91544"
+         sodipodi:r1="5.8730631"
+         sodipodi:r2="2.9365315"
+         sodipodi:arg1="2.0943951"
+         sodipodi:arg2="3.1415927"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 148.57746,275.00166 0,-5.08622 0,-5.08623 4.4048,2.54311 4.4048,2.54312 -4.4048,2.54311 z"
+         inkscape:transform-center-x="-1.4346322"
+         inkscape:transform-center-y="-3.1171212e-06" />
+      <rect
+         y="50.852795"
+         x="-270.86407"
+         height="1.8973209"
+         width="90.991615"
+         id="rect3131"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:9.35839081;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         transform="rotate(-90)" />
+      <path
+         inkscape:transform-center-y="-1.4346351"
+         d="m -139.444,266.12003 0,-4.9697 0,-4.9697 4.30389,2.48485 4.30389,2.48485 -4.30389,2.48485 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="3.1415927"
+         sodipodi:arg1="2.0943951"
+         sodipodi:r2="2.8692598"
+         sodipodi:r1="5.7385197"
+         sodipodi:cy="261.15033"
+         sodipodi:cx="-136.57474"
+         sodipodi:sides="3"
+         id="path3133"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:11.16499996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         sodipodi:type="star"
+         transform="matrix(0,-1.0234457,1.0234457,0,-215.47172,30.426051)" />
+    </g>
+    <circle
+       style="opacity:1;fill:#1f77b4;fill-opacity:1;stroke:#1f77b4;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       id="circle3137"
+       cx="-232.49753"
+       cy="167.09814"
+       r="6.2485409" />
+    <circle
+       r="6.2485409"
+       cy="200.68932"
+       cx="-295.43576"
+       id="circle3139"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#1f77b4;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#1f77b4;fill-opacity:1;stroke:#1f77b4;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       id="circle3141"
+       cx="-315.46851"
+       cy="244.91254"
+       r="6.2485409" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#1f77b4;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       id="circle3143"
+       cx="-257.26016"
+       cy="221.10004"
+       r="6.2485409" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3145"
+       d="m -315.61012,245.74636 20.78869,-46.11309 v 0 l 37.79762,21.92262 24.56845,-55.94048"
+       style="fill:none;stroke:#1f77b4;stroke-width:9.76500034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.53189087px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#1f75b4;fill-opacity:1;stroke:none;stroke-width:4.33171988"
+       x="-215.05742"
+       y="52.388657"
+       id="text860-3"
+       transform="scale(0.80086994,1.2486422)"
+       inkscape:export-xdpi="301.82397"
+       inkscape:export-ydpi="301.82397"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/current_icon_dark.png"><tspan
+         sodipodi:role="line"
+         id="tspan858-6"
+         x="-215.05742"
+         y="52.388657"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#1f75b4;fill-opacity:1;stroke-width:4.33171988">A:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.53189087px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#1f75b4;fill-opacity:1;stroke:none;stroke-width:4.33171988"
+       x="-132.91679"
+       y="53.226227"
+       id="text860-1-7"
+       transform="scale(0.80086994,1.2486422)"
+       inkscape:export-xdpi="301.82397"
+       inkscape:export-ydpi="301.82397"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/current_icon_dark.png"><tspan
+         sodipodi:role="line"
+         id="tspan858-5-5"
+         x="-132.91679"
+         y="53.226227"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#1f75b4;fill-opacity:1;stroke-width:4.33171988">13</tspan></text>
+    <g
+       id="g3043-3"
+       transform="matrix(1,0,0,0.94488193,-208.80393,9.7664303)"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/current_icon.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301">
+      <text
+         inkscape:export-ydpi="301.82397"
+         inkscape:export-xdpi="301.82397"
+         transform="scale(0.78175331,1.2791759)"
+         id="text860-6-5"
+         y="107.64597"
+         x="41.073544"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.63295746px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff7f0e;fill-opacity:1;stroke:none;stroke-width:4.47497463"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff7f0e;fill-opacity:1;stroke-width:4.47497463"
+           y="107.64597"
+           x="41.073544"
+           id="tspan858-1-6"
+           sodipodi:role="line">B:</tspan></text>
+      <text
+         inkscape:export-ydpi="301.82397"
+         inkscape:export-xdpi="301.82397"
+         transform="scale(0.78175331,1.2791759)"
+         id="text860-1-9-2"
+         y="106.71661"
+         x="129.05771"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.63295746px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff7f0e;fill-opacity:1;stroke:none;stroke-width:4.47497463"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff7f0e;fill-opacity:1;stroke-width:4.47497463"
+           y="106.71661"
+           x="129.05771"
+           id="tspan858-5-8-9"
+           sodipodi:role="line">98</tspan></text>
+    </g>
+    <g
+       transform="translate(-208.80393,2.1767703)"
+       id="g3006-1"
+       style="fill:#ffff00;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301">
+      <rect
+         y="268.96677"
+         x="50.852795"
+         height="1.8973209"
+         width="90.991615"
+         id="rect2920-2"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:9.35839081;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="-3.1171212e-06"
+         inkscape:transform-center-x="-1.4346322"
+         d="m 148.57746,275.00166 0,-5.08622 0,-5.08623 4.4048,2.54311 4.4048,2.54312 -4.4048,2.54311 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="3.1415927"
+         sodipodi:arg1="2.0943951"
+         sodipodi:r2="2.9365315"
+         sodipodi:r1="5.8730631"
+         sodipodi:cy="269.91544"
+         sodipodi:cx="151.51399"
+         sodipodi:sides="3"
+         id="path2924-7"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:11.42677116;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         sodipodi:type="star" />
+      <rect
+         transform="rotate(-90)"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:9.35839081;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         id="rect2926-0"
+         width="90.991615"
+         height="1.8973209"
+         x="-270.86407"
+         y="50.852795" />
+      <path
+         transform="matrix(0,-1.0234457,1.0234457,0,-215.47172,30.426051)"
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:11.16499996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+         id="path2928-9"
+         sodipodi:sides="3"
+         sodipodi:cx="-136.57474"
+         sodipodi:cy="261.15033"
+         sodipodi:r1="5.7385197"
+         sodipodi:r2="2.8692598"
+         sodipodi:arg1="2.0943951"
+         sodipodi:arg2="3.1415927"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -139.444,266.12003 0,-4.9697 0,-4.9697 4.30389,2.48485 4.30389,2.48485 -4.30389,2.48485 z"
+         inkscape:transform-center-y="-1.4346351" />
+    </g>
+    <circle
+       r="6.2485409"
+       cy="166.47777"
+       cx="-51.230042"
+       id="circle2938-3"
+       style="opacity:1;fill:#1f77b4;fill-opacity:1;stroke:#1f77b4;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#1f77b4;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       id="circle2994-6"
+       cx="-114.16824"
+       cy="200.06892"
+       r="6.2485409"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+    <circle
+       r="6.2485409"
+       cy="244.29216"
+       cx="-134.20099"
+       id="circle2996-0"
+       style="opacity:1;fill:#1f77b4;fill-opacity:1;stroke:#1f77b4;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+    <circle
+       r="6.2485409"
+       cy="220.47966"
+       cx="-75.992676"
+       id="circle2998-6"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#1f77b4;stroke-width:9.0036602;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.92259288;stroke-opacity:1"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+    <path
+       style="fill:none;stroke:#1f77b4;stroke-width:9.76500034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -134.34262,245.12617 20.78869,-46.11309 v 0 l 37.797619,21.92263 24.56846,-55.94049"
+       id="path3000-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/selrahc/tausand/AbacusSoftware/abacusSoftware/GUI/images/plot_icon_dark.png"
+       inkscape:export-xdpi="301"
+       inkscape:export-ydpi="301" />
+  </g>
+</svg>
